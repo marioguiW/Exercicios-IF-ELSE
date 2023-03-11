@@ -18,5 +18,4 @@ int main(int argc, char const *argv[])
     }else{
         printf("Infelizmente voce nao conseguiu a vaga");
     }
-    return 0;
 }
